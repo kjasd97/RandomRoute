@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RandomRoute</string>
+    <string name="random_route">Random route!</string>
+</resources>
